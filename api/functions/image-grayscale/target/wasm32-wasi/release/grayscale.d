@@ -1,0 +1,1 @@
+/home/zhushu/Desktop/tencent-scf-wasm-runtime/api/functions/image-grayscale/target/wasm32-wasi/release/grayscale.wasm: /home/zhushu/Desktop/tencent-scf-wasm-runtime/api/functions/image-grayscale/src/main.rs
